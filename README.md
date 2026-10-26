@@ -35,6 +35,7 @@ See the [data dictionary](data/README.md) for tables, fields and how the simulat
 | --- | --- |
 | `docs/` | Problem statement, stakeholders, user stories, assumptions |
 | `docs/process/` | As-is and to-be process maps (draw.io) |
+| `powerquery/` | Power Query M code, one file per query |
 | `scripts/` | Data simulation script with a switchable reorder rule |
 | `data/raw/` | Six simulated tables |
 | `data/processed/` | Cleaned data and the daily stock table |
@@ -47,7 +48,7 @@ See the [data dictionary](data/README.md) for tables, fields and how the simulat
 
 - [x] Week 1: [Problem statement](docs/01_problem_statement.md), [stakeholders](docs/02_stakeholders.md), [as-is process](docs/process/as_is_process.md)
 - [x] Week 2: [User stories and acceptance criteria](docs/03_requirements.md)
-- [ ] Week 3: [Data simulation](data/README.md) (done), Power Query cleaning
+- [ ] Week 3: [Data simulation](data/README.md) (done), [Power Query cleaning](docs/04_power_query_cleaning.md) (M code ready, workbook to build)
 - [ ] Week 4: SQL part 1 (sales, stock, baseline, reorder, shrinkage, claims)
 - [ ] Week 5: SQL part 2 (promotion uplift, GWP analysis, incremental sales)
 - [ ] Week 6: Power BI dashboard
