@@ -1,0 +1,41 @@
+product_id,brand,product_name,category,size_ml,price,cost,safety_stock,opening_stock,case_size
+P001,Maison Aurel,Neroli Sun EDP 30ml,Women,30,130,71.5,4,20,6
+P002,Maison Aurel,Golden Vetiver EDP 30ml,Women,30,135,74.25,3,16,6
+P003,Maison Aurel,Orange Blossom EDP 50ml,Women,50,220,121.0,2,26,6
+P004,Maison Aurel,Sandal Bloom EDP 50ml,Women,50,190,104.5,6,29,6
+P005,Maison Aurel,Cedar Smoke EDP 30ml,Unisex,30,115,63.25,7,34,6
+P006,Lumiere Noire,Rain Moss EDP 30ml,Women,30,135,74.25,4,17,6
+P007,Lumiere Noire,Saffron Veil EDP 50ml,Women,50,210,115.5,3,13,6
+P008,Lumiere Noire,Rose Atlas EDP 50ml,Women,50,180,99.0,7,33,6
+P009,Lumiere Noire,Lavender Field EDP 100ml,Women,100,300,165.0,3,14,4
+P010,Lumiere Noire,Green Vetiver EDP 50ml,Women,50,175,96.25,2,19,6
+P011,Atelier Sol,Iris Powder EDP 50ml,Unisex,50,170,93.5,2,14,6
+P012,Atelier Sol,Vanilla Wood EDP 30ml,Unisex,30,110,60.5,2,13,6
+P013,Atelier Sol,Pear Blossom EDP 100ml,Unisex,100,290,159.5,2,25,4
+P014,Atelier Sol,Smoked Birch EDP 50ml,Unisex,50,205,112.75,2,19,6
+P015,Atelier Sol,Oud Ember EDP 50ml,Unisex,50,195,107.25,2,11,6
+P016,Nordvik,Cassis Rose EDP 30ml,Men,30,115,63.25,2,18,6
+P017,Nordvik,Plum Velvet EDP 50ml,Men,50,190,104.5,3,13,6
+P018,Nordvik,Amber Coast EDP 50ml,Men,50,205,112.75,6,30,6
+P019,Nordvik,Tonka Cream EDP 50ml,Men,50,195,107.25,4,21,6
+P020,Nordvik,Midnight Iris EDP 50ml,Men,50,180,99.0,3,11,6
+P021,Rosaline,Musk Cloud EDP 30ml,Women,30,125,68.75,3,16,6
+P022,Rosaline,Linen Musk EDP 30ml,Women,30,125,68.75,2,19,6
+P023,Rosaline,Mandarin Spark EDP 100ml,Women,100,250,137.5,2,11,4
+P024,Rosaline,Bergamot Rain EDP 30ml,Women,30,120,66.0,2,17,6
+P025,Rosaline,Cedar Coast EDP 50ml,Women,50,200,110.0,4,20,6
+P026,Oud Republic,Fig Leaf EDP 50ml,Men,50,205,112.75,3,13,6
+P027,Oud Republic,Coastal Sage EDP 50ml,Men,50,185,101.75,8,39,6
+P028,Oud Republic,White Tea EDP 30ml,Unisex,30,110,60.5,4,18,6
+P029,Oud Republic,Velvet Fig EDP 30ml,Unisex,30,140,77.0,3,12,6
+P030,Oud Republic,Citrus Grove EDP 30ml,Men,30,130,71.5,2,22,6
+P031,Blanc Studio,Night Jasmine EDP 30ml,Unisex,30,140,77.0,4,19,6
+P032,Blanc Studio,Leather Iris EDP 50ml,Unisex,50,180,99.0,2,16,6
+P033,Blanc Studio,Blue Cypress EDP 50ml,Women,50,180,99.0,7,35,6
+P034,Blanc Studio,Tobacco Leaf EDP 30ml,Unisex,30,150,82.5,4,19,6
+P035,Blanc Studio,Honey Oud EDP 100ml,Unisex,100,295,162.25,2,10,4
+P036,Verdant & Co,Sea Salt Neroli EDP 100ml,Women,100,300,165.0,4,19,4
+P037,Verdant & Co,Ginger Wood EDP 50ml,Men,50,185,101.75,7,32,6
+P038,Verdant & Co,Amber Dusk EDP 30ml,Women,30,145,79.75,4,18,6
+P039,Verdant & Co,Peony Silk EDP 50ml,Men,50,170,93.5,2,21,6
+P040,Verdant & Co,Pink Pepper EDP 50ml,Women,50,170,93.5,5,25,6

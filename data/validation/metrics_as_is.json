@@ -1,0 +1,16 @@
+{
+  "rule": "as_is",
+  "stockout_days": 1487,
+  "stockout_days_in_promotions": 425,
+  "units_sold": 11171,
+  "sales_value": 1979141.0,
+  "lost_units": 3050,
+  "lost_sales_value": 531808.25,
+  "avg_stock_units": 431.8,
+  "avg_stock_value_at_cost": 42289.38,
+  "overstock_after_promotions_units": 350,
+  "overstock_after_promotions_value": 33965.25,
+  "regular_orders": 591,
+  "urgent_orders": 137,
+  "units_ordered": 11606
+}

@@ -19,6 +19,16 @@ Replenishment at the counter is based on experience. Best sellers often run out,
 
 Excel, Power Query, SQL (SQLite), Power BI, Python (data simulation), draw.io
 
+## Generate the data
+
+```
+pip install -r requirements.txt
+python scripts/generate_data.py           # current reorder rule, writes to data/
+python scripts/check_stock_balance.py     # rebuild daily stock and check it
+```
+
+See the [data dictionary](data/README.md) for tables, fields and how the simulation works.
+
 ## Repository structure
 
 | Folder | Contents |
@@ -37,7 +47,7 @@ Excel, Power Query, SQL (SQLite), Power BI, Python (data simulation), draw.io
 
 - [x] Week 1: [Problem statement](docs/01_problem_statement.md), [stakeholders](docs/02_stakeholders.md), [as-is process](docs/process/as_is_process.md)
 - [x] Week 2: [User stories and acceptance criteria](docs/03_requirements.md)
-- [ ] Week 3: Data simulation and Power Query cleaning
+- [ ] Week 3: [Data simulation](data/README.md) (done), Power Query cleaning
 - [ ] Week 4: SQL part 1 (sales, stock, baseline, reorder, shrinkage, claims)
 - [ ] Week 5: SQL part 2 (promotion uplift, GWP analysis, incremental sales)
 - [ ] Week 6: Power BI dashboard

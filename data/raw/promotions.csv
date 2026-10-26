@@ -1,0 +1,20 @@
+promo_id,name,promo_type,start_date,end_date,discount_pct,brand,gift_item,gift_qty,qualifying_rule
+PR01,Valentine's Day GWP,gwp,2025-02-03,2025-02-16,0.0,Rosaline,Rose travel candle,50,Any purchase
+PR02,Valentine's Day GWP,gwp,2025-02-03,2025-02-16,0.0,Nordvik,Leather pouch,80,Any purchase
+PR03,Autumn GWP,gwp,2025-03-17,2025-03-30,0.0,Atelier Sol,10ml travel spray,20,50ml or larger
+PR04,Mother's Day GWP,gwp,2025-04-28,2025-05-11,0.0,Lumiere Noire,Velvet cosmetic bag,70,Any purchase
+PR05,Mother's Day GWP,gwp,2025-04-28,2025-05-11,0.0,Maison Aurel,Scented hand cream,70,Spend $150 or more
+PR06,Mid-Year Sale,discount,2025-06-20,2025-06-29,0.2,Blanc Studio,,,
+PR07,Mid-Year Sale,discount,2025-06-20,2025-06-29,0.2,Verdant & Co,,,
+PR08,Father's Day GWP,gwp,2025-08-25,2025-09-07,0.0,Nordvik,Weekender bag,110,Spend $150 or more
+PR09,Father's Day GWP,gwp,2025-08-25,2025-09-07,0.0,Oud Republic,Travel case,280,Any purchase
+PR10,Click Frenzy,discount,2025-11-11,2025-11-13,0.15,Maison Aurel,,,
+PR11,Click Frenzy,discount,2025-11-11,2025-11-13,0.15,Atelier Sol,,,
+PR12,Black Friday,discount,2025-11-27,2025-12-01,0.2,Lumiere Noire,,,
+PR13,Black Friday,discount,2025-11-27,2025-12-01,0.2,Oud Republic,,,
+PR14,Black Friday,discount,2025-11-27,2025-12-01,0.25,Rosaline,,,
+PR15,Christmas GWP,gwp,2025-12-02,2025-12-15,0.0,Maison Aurel,Mini candle set,130,Any purchase
+PR16,Christmas GWP,gwp,2025-12-08,2025-12-21,0.0,Verdant & Co,Pouch with mini,70,50ml or larger
+PR17,Christmas GWP,gwp,2025-12-02,2025-12-15,0.0,Blanc Studio,Body lotion 50ml,130,Any purchase
+PR18,Boxing Day Sale,discount,2025-12-26,2025-12-31,0.25,Nordvik,,,
+PR19,Boxing Day Sale,discount,2025-12-26,2025-12-31,0.2,Lumiere Noire,,,

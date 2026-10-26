@@ -38,7 +38,7 @@ Priorities use MoSCoW (Must, Should, Could, Won't). Key terms are defined in the
 
 - **Given** I select a promotion, **when** the page loads, **then** it shows promotion sales, the baseline before the promotion and uplift (promotion weekly average ÷ baseline).
 - **Then** it also shows sales in the 4 weeks after the promotion compared with the baseline.
-- **Given** a product ran out of stock during the promotion, **when** uplift is calculated, **then** only days before the stockout are used, and the result is flagged as incomplete.
+- **Given** a product ran out of stock during the promotion, **when** uplift is calculated, **then** stockout days are excluded, and the result shows how many stockout days were excluded.
 
 ### US08 Discount vs GWP comparison
 
