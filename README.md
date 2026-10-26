@@ -36,7 +36,7 @@ Excel, Power Query, SQL (SQLite), Power BI, Python (data simulation), draw.io
 ## Status
 
 - [x] Week 1: [Problem statement](docs/01_problem_statement.md), [stakeholders](docs/02_stakeholders.md), [as-is process](docs/process/as_is_process.md)
-- [ ] Week 2: User stories and acceptance criteria
+- [x] Week 2: [User stories and acceptance criteria](docs/03_requirements.md)
 - [ ] Week 3: Data simulation and Power Query cleaning
 - [ ] Week 4: SQL part 1 (sales, stock, baseline, reorder, shrinkage, claims)
 - [ ] Week 5: SQL part 2 (promotion uplift, GWP analysis, incremental sales)
